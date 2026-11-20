@@ -19,9 +19,8 @@ More screenshots are in [`docs/screenshots/`](docs/screenshots).
 Prerequisites: **Node.js 20+** (22 LTS recommended) and **Python 3.11+** (only needed for the optional API).
 
 ```powershell
-git clone https://github.com/Akshayg005/Sparkzzz.git
-cd Sparkzzz
-git checkout claude/gallant-wright-t6xzx5
+git clone https://github.com/Anshumaan1254/VAJRA.git
+cd VAJRA
 
 # one-time setup: npm workspaces + Python venv for the API
 .\scripts\setup.ps1
